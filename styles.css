@@ -1,0 +1,236 @@
+body{
+
+    background-image:url('https://img.freepik.com/free-vector/hand-drawn-cute-food-frame-background_23-2149602177.jpg?t=st=1734800650~exp=1734804250~hmac=35a2a869006b586b854783ecc026948ec441af075471f9474bea8f7222e85f2a&w=1800');
+    background-size: 100%;
+        font-family: Arial, sans-serif;
+        h1{text-align: center;
+            height :250px;
+            margin-top: 200px;
+            font-size: 80px;
+            width :auto;
+            color :#cd5a5a;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        
+       
+       .a-container{
+            
+            background-color: #050404;
+            text-align: center;
+            color: #070606;
+            border-style:groove;
+            margin-left: auto;
+            border-radius: 5px;
+            cursor: hand;
+        }
+    
+    
+    .login-container {
+        width: 300px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color:#ffffff;
+        border: 1px solid #000000;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 50px;
+    }
+    
+    
+    .login-container h2 {
+
+       height:30px;
+        margin:10px auto;
+        text-align: center;
+        border: 2px black;
+        border-style:groove;
+        border-radius:15px;
+        background-color:#cd5a5a;
+       color:#000000;
+    }
+
+
+ }
+    
+    #login-form {
+        margin-top: 20px;
+       
+    }
+    
+    label {
+        display: block;
+        margin-bottom: 10px;
+        color:rgb(0, 0, 0);
+    }
+    
+    input[type="text"], input[type="password"] {
+        width: 100%;
+        height: 40px;
+        margin-bottom: 20px;
+       
+        border: 1px solid #ccc;
+    }
+    
+    button[type="submit"] {
+       width:100%;
+        height: 40px;
+        background-color: #449246;
+        text-align: center;
+        color: #14ad26;
+        border-style:groove;
+        margin-left: auto;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    button[type="submit"]:hover
+     {
+        text-align:center;
+        border-style:groove;
+       background-color: #4CAF50;
+        
+    }
+    body {
+        font-family: Arial, sans-serif;
+        background-color:transparent;
+        margin: 0;
+        padding: 0;
+    }
+    .signup-container {
+        width: 300px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: transparent;
+        border: 1px solid #010000;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .signup-container h3 {
+        text-align: center;
+        color:#8b1111;
+
+    }
+    #signup-form {
+        margin-top: 20px;
+    }
+    label {
+        display: block;
+        margin-bottom: 10px;
+        
+    }
+    input[type="text"], input[type="email"], input[type="password"] {
+        width: 100%;
+        height: 40px;
+        margin-bottom: 20px;
+      
+        border: 1px solid #ccc;
+    }
+    button[type="submit"] {
+        width: 100%;
+        height: 40px;
+        background-color: #4CAF50;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    button[type="submit"]:hover {
+        background-color: #45a049;
+    }
+    
+
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        color:#ad1625
+    }
+    header {
+        background-color: #c51010;
+        color: #160101;
+        padding: 10px 0;
+        text-align: center;
+    }
+    .navbar {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        color:#000000;
+    }
+    .navbar li {
+        margin: 0 15px;
+    }
+    .navbar a {
+        color: #000000;
+        text-decoration: none;
+        padding: 10px 20px;
+        display: block;
+    }
+    .navbar a:hover {
+        background-color: #a71212;
+        border-radius: 5px;
+    }
+    .content {
+        padding: 20px;
+        color:rgb(221, 239, 15);
+        font-size: xx-large;
+    }
+    section {
+        margin: 20px 0;
+    }
+     
+  
+
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+    .contact-container {
+        width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: transparent;
+        border: 1px solid #ddd;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .contact-container h2 {
+        text-align: center;
+    }
+    .contact-container ul {
+        list-style: none;
+       
+    }
+    .contact-container ul li {
+        margin-bottom: 10px;
+    }
+    #contact-form {
+        margin-top: 20px;
+    }
+    label {
+        display: block;
+        margin-bottom: 10px;
+    }
+    input[type="text"], input[type="email"], textarea {
+        width: 100%;
+      
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+    }
+    button[type="submit"] {
+        width: 100%;
+        
+        background-color: #4CAF50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    button[type="submit"]:hover {
+        background-color: #45a049;
+    }
